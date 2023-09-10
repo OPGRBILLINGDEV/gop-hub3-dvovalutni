@@ -29,3 +29,4 @@ Spremanje generiranog naloga u PDF nije nativno podržano. Umjesto toga korisnik
 * provjeriti zašto duži opis plaćanja ne prolazi validaciju
 * provjeriti da li generianje radi sa "HR" sufiksom u oznaci modela
 * u slučaju kada 2D kod ne može biti generiran umjesto ispisa na Canvas staviti da bude prikazana neka `<html>` poruka
+* U ZADNJU LINIJU OPISA UPLATE DODATI PROTUVRIJEDNOST U HRK xx,yy
